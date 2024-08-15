@@ -1,0 +1,14 @@
+P:\IDE'S Project\C#\Random Value Generator\bin\Debug\net8.0\Random Value Generator.exe
+P:\IDE'S Project\C#\Random Value Generator\bin\Debug\net8.0\Random Value Generator.deps.json
+P:\IDE'S Project\C#\Random Value Generator\bin\Debug\net8.0\Random Value Generator.runtimeconfig.json
+P:\IDE'S Project\C#\Random Value Generator\bin\Debug\net8.0\Random Value Generator.dll
+P:\IDE'S Project\C#\Random Value Generator\bin\Debug\net8.0\Random Value Generator.pdb
+P:\IDE'S Project\C#\Random Value Generator\obj\Debug\net8.0\Random Value Generator.GeneratedMSBuildEditorConfig.editorconfig
+P:\IDE'S Project\C#\Random Value Generator\obj\Debug\net8.0\Random Value Generator.AssemblyInfoInputs.cache
+P:\IDE'S Project\C#\Random Value Generator\obj\Debug\net8.0\Random Value Generator.AssemblyInfo.cs
+P:\IDE'S Project\C#\Random Value Generator\obj\Debug\net8.0\Random Value Generator.csproj.CoreCompileInputs.cache
+P:\IDE'S Project\C#\Random Value Generator\obj\Debug\net8.0\Random Value Generator.dll
+P:\IDE'S Project\C#\Random Value Generator\obj\Debug\net8.0\refint\Random Value Generator.dll
+P:\IDE'S Project\C#\Random Value Generator\obj\Debug\net8.0\Random Value Generator.pdb
+P:\IDE'S Project\C#\Random Value Generator\obj\Debug\net8.0\Random Value Generator.genruntimeconfig.cache
+P:\IDE'S Project\C#\Random Value Generator\obj\Debug\net8.0\ref\Random Value Generator.dll
